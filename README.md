@@ -19,3 +19,4 @@
 09. Slices
 10. Map(Dictionary)
 11. Range
+12. Functions
